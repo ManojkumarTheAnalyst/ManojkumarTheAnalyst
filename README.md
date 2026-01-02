@@ -13,6 +13,8 @@ I am currently pursuing an M.Tech in Computer Science and Data Processing at IIT
 🛠 Tech Stack: * Languages: C++, C, Python, SQL. * Libraries: Keras, XGBoost, Scikit-Learn, Pandas, NumPy, Matplotlib. * Core Competencies: Data Structures, Machine Learning, Graph Theory, and Statistical Methods.
 
 ## My Github Stats
+![Github Stats2](https://github-readme-stats.vercel.app/api?username=ManojkumarTheAnalyst)
+
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=ManojkumarTheAnalyst)
 
 ![Github Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojkumarTheAnalyst)

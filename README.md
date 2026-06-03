@@ -256,10 +256,13 @@ Phase 3 ── TF-IDF Re-ranking             →  Precision filtering & scoring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManojkumarTheAnalyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ManojkumarTheAnalyst&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManojkumarTheAnalyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojkumarTheAnalyst&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=ManojkumarTheAnalyst&theme=tokyonight&hide_border=true&cache_seconds=86400" />
